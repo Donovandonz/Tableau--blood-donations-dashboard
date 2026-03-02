@@ -100,13 +100,13 @@ Detailed blood type analysis showing:
 ---
 # Dashboard Overview (Page 1 Bloodflow Insight)
 
--<a href="https://github.com/Donovandonz/Tableau--blood-donations-dashboard/blob/main/Blood%20Donations%20Performance%20Dashboard.png">Videogame-dashboard</a>
+-<a href="https://github.com/Donovandonz/Tableau--blood-donations-dashboard/blob/main/Blood%20Donations%20Performance%20Dashboard.png">bloodflow-insight-dashboard</a>
 
 <img width="1999" height="1124" alt="Blood Donations Performance Dashboard" src="https://github.com/user-attachments/assets/675ef868-ac6b-4c9b-a12e-92e0d216b9a1" />
 
 # Dashboard Overview (Page 2 Bloodgroup analysis)
 
--<a href="https://github.com/Donovandonz/Tableau--blood-donations-dashboard/blob/main/Blood%20Group%20Analytics.png">Videogame-dashboard</a>
+-<a href="https://github.com/Donovandonz/Tableau--blood-donations-dashboard/blob/main/Blood%20Group%20Analytics.png">bloodgroup-analysis-dashboard</a>
 
 <img width="1999" height="1124" alt="Blood Group Analytics" src="https://github.com/user-attachments/assets/dfd79578-6306-4b20-9078-057d768033f5" />
 
